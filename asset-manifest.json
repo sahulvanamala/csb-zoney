@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sahulvanamala.github.io/csb-zoney/static/css/main.30754b88.chunk.css",
+    "main.js": "https://sahulvanamala.github.io/csb-zoney/static/js/main.0d40e679.chunk.js",
+    "main.js.map": "https://sahulvanamala.github.io/csb-zoney/static/js/main.0d40e679.chunk.js.map",
+    "runtime-main.js": "https://sahulvanamala.github.io/csb-zoney/static/js/runtime-main.39e6091d.js",
+    "runtime-main.js.map": "https://sahulvanamala.github.io/csb-zoney/static/js/runtime-main.39e6091d.js.map",
+    "static/js/2.86c030d8.chunk.js": "https://sahulvanamala.github.io/csb-zoney/static/js/2.86c030d8.chunk.js",
+    "static/js/2.86c030d8.chunk.js.map": "https://sahulvanamala.github.io/csb-zoney/static/js/2.86c030d8.chunk.js.map",
+    "index.html": "https://sahulvanamala.github.io/csb-zoney/index.html",
+    "static/css/main.30754b88.chunk.css.map": "https://sahulvanamala.github.io/csb-zoney/static/css/main.30754b88.chunk.css.map",
+    "static/js/2.86c030d8.chunk.js.LICENSE.txt": "https://sahulvanamala.github.io/csb-zoney/static/js/2.86c030d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39e6091d.js",
+    "static/js/2.86c030d8.chunk.js",
+    "static/css/main.30754b88.chunk.css",
+    "static/js/main.0d40e679.chunk.js"
+  ]
+}
